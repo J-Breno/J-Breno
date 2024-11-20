@@ -87,13 +87,6 @@
 </div>
 
 
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/J-Breno">
-</a>
-</div>
-
 <br>
 <br> 
 
