@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Breno;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Breno;I'm+19+years+old;I'm+a+Fullstack+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -12,7 +12,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J-Breno&theme=dracula&card_width=800&card_height=250)](https://git.io/streak-stats)
 
 </div>
-
 
 <div align="center"> 
 <a href="https://www.instagram.com/jbreno.io?igsh=MTdzcDFzczVvYmdveA%3D%3D&utm_source=qr" target="_blank">
@@ -31,22 +30,46 @@
 
 </div>
 
-
-### Main skills:
+### 🚀 Main Skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<!-- HTML5 -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<!-- CSS3 -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<!-- Tailwind CSS -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS">
 
-<img align="left"  height="80" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<!-- JavaScript -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
 
-<img align="left"  height="80" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<!-- TypeScript -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<!-- React -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
 
+<!-- Next.js -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
 
+<!-- PHP -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
+
+<!-- PostgreSQL -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+
+<!-- MySQL -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+
+<!-- Git -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+
+<!-- Docker -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+
+<!-- Linux -->
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
 
 </div>
 
@@ -56,27 +79,58 @@
 <br>
 <br>
 <br> 
+<br>
+<br>
+<br>
+<br>
 
-
-<h2 align="left"> Studying in this moment: </h2>
-
-
-<div align="left"> 
-
-<img align="left"  height="80" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
-<img align="left"  height="80" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-
-<img align="left"  height="80" width="120" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+### 📊 GitHub Stats:
+<div align="center">
+  
+![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Breno&show_icons=true&theme=dracula&count_private=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Breno&layout=compact&theme=dracula&hide=java)
 
 </div>
 
+### 🌟 Featured Projects:
+<div align="center">
+
+[![Devsbook - Social Network](https://github-readme-stats.vercel.app/api/pin/?username=J-Breno&repo=php_curso&theme=dracula)](https://github.com/J-Breno/php_curso/tree/main/projeto/devsbook)
+
+[![Dashgo - Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=J-Breno&repo=nextjs&theme=dracula)](https://github.com/J-Breno/nextjs/tree/main/04-dashgo)
+
+[![Shop Base - E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=J-Breno&repo=nextjs&theme=dracula)](https://github.com/J-Breno/nextjs/tree/main/01-ignite-shop)
+
+</div>
+
+### 🛠️ Currently Working With:
+<div align="left"> 
+
+<!-- Next.js -->
+<img align="left" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
+
+<!-- TypeScript -->
+<img align="left" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+
+<!-- Tailwind CSS -->
+<img align="left" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS">
+
+<!-- PostgreSQL -->
+<img align="left" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+
+<!-- Docker -->
+<img align="left" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   
-<br>
-<br>
 <br>
 <br>
 
@@ -86,17 +140,5 @@
 <br>
 </div>
 
-
 <br>
-<br> 
-
-
-
-
-
-
-
-
-
-
-
+<br>
